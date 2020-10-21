@@ -1,3 +1,6 @@
+NLPプログラミングチュートリアルの回答をpushするリポジトリ
+http://www.phontron.com/teaching.php
+
 NLP Programming Tutorial
 ========================
 
